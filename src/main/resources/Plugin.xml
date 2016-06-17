@@ -1,0 +1,6 @@
+<plugin name="NodeMessageSaver" className="com.tools.node.message.saver.NodeMessageSaverPlugin" version="1.0.0" id="">
+ <identifier>nodeMessageSaved</identifier>
+ <plugin-type>Add-on</plugin-type>
+ <activatorMethod>startPlugin</activatorMethod>
+ <deactivatorMethod>stopPlugin</deactivatorMethod>
+</plugin>
